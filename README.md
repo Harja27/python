@@ -1,1 +1,2 @@
 # python
+terdapat bahan peledak
